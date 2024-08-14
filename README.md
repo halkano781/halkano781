@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Halkano781
+# 👋 Hello, I'm Halkano Racha
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+World) <!-- You can replace this with a custom banner -->
+
 
 ## 🧑‍💻 About Me
 
@@ -12,7 +12,7 @@
 
 ## 🔧 My Arsenal
 
-- **Languages**: Python, Bash, PHP, JavaScript
+- **Languages**: Python, Bash, PHP, JavaScript, Go, Ruby
 - **Tools**: Burp Suite, Nmap, Metasploit, Wireshark
 - **Platforms**: Linux, TryHackMe, Bugcrowd
 
